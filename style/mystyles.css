@@ -1,0 +1,8 @@
+a {
+    text-transform: capitalize;
+    color: green;
+}
+
+.heading {
+    text-transform: uppercase;
+}
